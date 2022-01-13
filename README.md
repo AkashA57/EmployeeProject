@@ -9,8 +9,14 @@ This project helps manage a employee information by
 Session is maintained.
 Cookie is ignored.
 
+server.port=444
+
 Framework: Springboot JPA
+
 Frontend: JSP, HTML, Bootstrap, JSTL
+
 Backend: Java
+
 Design Pattern: Spring MVC 
+
 Database: Hibernate is used to connect to MySQL
